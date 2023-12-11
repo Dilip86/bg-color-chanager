@@ -1,8 +1,21 @@
-# React + Vite
+# Color Changing Background React App 🎨
+This simple React application allows users to change the background color by clicking on different color buttons. It's a great way to explore React's useState hook and dynamically update the UI based on user interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview
+https://github.com/Dilip86/bg-color-chanager/assets/97818951/c7d02464-694e-446f-8d9f-f80a0f20e271
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Click buttons to change the background color instantly.
+- Responsive UI design.
+- Easy-to-understand React component structure.
+
+## Technologies Used
+- React
+- JavaScript (ES6+)
+- CSS
+- HTML
+
+## How to Use
+- Click on different color buttons to change the background color.
+- Explore the code to understand how React's useState hook manages state and updates the UI dynamically.
